@@ -37,7 +37,8 @@ This is not a tutorial project or a generic template. It is a **custom data engi
 * 📊 **Report Generator:** Dynamic conversion of JSON results to Excel files (.xlsx).
 * 📥 **Data Dropzone:** File upload area with visual status feedback and type validation.
 * ✍️ **Granular Personalization:** Specific modals to edit individual messages before sending.
-* 🏷️ **Dynamic Tag System:** Use of variables such as `[nombre]`, `{o|a}`, and `{El|La}` for human-like communication.
+* 🏷️ **Dynamic Tag System:** Use of variables such as `[nombre]`, `{o|a}`, and `{El|La}` for human-like communication. Template: Estimad{o|a} [nombre], le escribimos de parte de...
+Output: Estimada María, le escribimos de parte de...
 * 📱 **Responsive Design:** Optimized for desktop and tablets using TailwindCSS.
 * 🎨 **Status Feedback:** Loading spinners, success indicators, and animated error alerts.
 
