@@ -64,13 +64,13 @@ Output: Estimada María, le escribimos de parte de...
 
 * Node.js 18+
 * npm or yarn
-* Active Backend API (see backend repository: https://github.com/SALVADORPOETA/Poder-judicial-backend-sm)
+* Active Backend API (see backend repository: https://github.com/SALVADORPOETA/Federal-Judiciary-backend-sm)
 
 ### Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/SALVADORPOETA/Poder-judicial-frontend-sm.git
+git clone https://github.com/SALVADORPOETA/Federal-Judiciary-frontend-sm.git
 
 # Navigate into the project directory
 cd poder-judicial-frontend-sm
