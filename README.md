@@ -64,7 +64,7 @@ Output: Estimada María, le escribimos de parte de...
 
 * Node.js 18+
 * npm or yarn
-* Active Backend API (see backend repository)
+* Active Backend API (see backend repository: https://github.com/SALVADORPOETA/Poder-judicial-backend-sm)
 
 ### Installation
 
